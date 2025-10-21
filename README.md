@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://coherence-pro.github.io/.github">  
+<a href="https://rumpels-kaji.github.io/.github/Coherence">  
 <img src="https://img.shields.io/badge/⬇️_GET_INSTALLATION_INSTRUCTION-darkblue?style=for-the-badge&logo=apple" alt="Install Coherence Pro on MacBook">  
 </a>  
 </div>  
